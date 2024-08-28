@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.search-bar button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.payment-item {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.payment-item h3 {
+  margin: 0;
+}
+
+.payment-item p {
+  margin: 5px 0;
+}
+
+.payment-item button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border:none;
+}

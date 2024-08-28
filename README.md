@@ -1,0 +1,1 @@
+Sosyal Yardım Frontend, sosyal yardım ödemelerini sorgulama ve yönetme amacıyla geliştirilmiş bir React uygulamasıdır. Kullanıcılar TCKN ile ödemeleri sorgulayabilir, ödeme yapabilir ve sonuçları görüntüleyebilir. TypeScript ve modern React özellikleri kullanılmıştır.
